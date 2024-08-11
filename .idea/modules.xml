@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemoQuestion/ArrayDemoQuestion.iml" filepath="$PROJECT_DIR$/ArrayDemoQuestion/ArrayDemoQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarInfo/CarInfo.iml" filepath="$PROJECT_DIR$/CarInfo/CarInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Project/Conditional Project.iml" filepath="$PROJECT_DIR$/Conditional Project/Conditional Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Specifications/Design Specifications.iml" filepath="$PROJECT_DIR$/Design Specifications/Design Specifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeInfo/EmployeeInfo.iml" filepath="$PROJECT_DIR$/EmployeeInfo/EmployeeInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J5-Logical Question/J5-Logical Question.iml" filepath="$PROJECT_DIR$/J5-Logical Question/J5-Logical Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-V.iml" filepath="$PROJECT_DIR$/.idea/Java-V.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NthPrimeNumber/NthPrimeNumber.iml" filepath="$PROJECT_DIR$/NthPrimeNumber/NthPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomGeneratorDemo/RandomGeneratorDemo.iml" filepath="$PROJECT_DIR$/RandomGeneratorDemo/RandomGeneratorDemo.iml" />
+    </modules>
+  </component>
+</project>
