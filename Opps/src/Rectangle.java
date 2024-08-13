@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Rectangle {
@@ -56,4 +57,7 @@ public class Rectangle {
         System.out.println("Perimeter = "+rectangle.perimeterRect(width,height));
 
     }
+=======
+public class Rectangle {
+>>>>>>> a87e408232c85fe37aa757b45a787f6189c866a2
 }
