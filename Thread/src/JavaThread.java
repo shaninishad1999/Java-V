@@ -12,6 +12,7 @@ public class JavaThread extends  Thread{
 }
 
 
+
 //public class JavaThread implements Runnable {
 //
 //    public void run(){
