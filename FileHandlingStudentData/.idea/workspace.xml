@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe0be1f7-8da4-4249-92b9-00bfca55d9a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CODING BASED QUESTION ASK BY A COMPANY/Problems on Arrays/src/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODING BASED QUESTION ASK BY A COMPANY/Problems on Arrays/src/SmallestAndSecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODING BASED QUESTION ASK BY A COMPANY/Problems on Arrays/src/SmallestNumberI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileReadWrite/src/com/example/fileRead/io/ReadFileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileReadWrite/src/com/example/fileRead/main/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/CompareCharacterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J5-Logical Question/ArrayBasedQuestion/src/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileReadWrite/FileReadWrite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileReadWrite/FileReadWrite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileReadWrite/Resources/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileReadWrite/resources/sample.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shaninishad1999"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shaninishad1999/Java-V.git",
+    "accountId": "d95d18c8-7d6d-40a2-9075-9fba3139ef22"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2leVCjJpkTlAArannLGJSJRHG8x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe0be1f7-8da4-4249-92b9-00bfca55d9a9" name="Changes" comment="" />
+      <created>1725540404416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725540404416</updated>
+    </task>
+    <servers />
+  </component>
+</project>
